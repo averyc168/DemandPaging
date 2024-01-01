@@ -27,5 +27,6 @@ The program will output the reference stream of unique reference pages, the numb
 
 ### To compile and run program, here is what you should do:
 1. g++ main.cpp -o a.out
-2. ./a.out (number of physical pages) (number of unique reference pages) (how long you want the reference stream to be)
-    ex.) ./a.out 3 5 100
+2. ./a.out *(number of physical pages) (number of unique reference pages) (how long you want the reference stream to be)*
+<br />
+ex.) ./a.out 3 5 100
